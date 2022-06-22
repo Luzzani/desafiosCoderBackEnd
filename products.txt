@@ -1,0 +1,8 @@
+[
+    {
+        "title": "Carpeta",
+        "price": 180,
+        "thumbnail": "https://foto.com/carpeta",
+        "id": 1
+    }
+]
