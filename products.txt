@@ -4,5 +4,35 @@
         "price": 180,
         "thumbnail": "https://foto.com/carpeta",
         "id": 1
+    },
+    {
+        "title": "tijeras",
+        "price": 80,
+        "thumbnail": "https://foto.com/tijeras",
+        "id": 2
+    },
+    {
+        "title": "goma",
+        "price": 20,
+        "thumbnail": "https:www.istockpohoto.com/goma",
+        "id": 3
+    },
+    {
+        "title": "regla",
+        "price": 30,
+        "thumbnail": "https:www.istockpohoto.com/regla",
+        "id": 4
+    },
+    {
+        "title": "lapicera",
+        "price": 20,
+        "thumbnail": "https:www.istockpohoto.com/lapicera",
+        "id": 5
+    },
+    {
+        "title": "escuadra",
+        "price": 140,
+        "thumbnail": "https:www.istockpohoto.com/escuadra",
+        "id": 6
     }
 ]
